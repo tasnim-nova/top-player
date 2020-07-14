@@ -1,0 +1,55 @@
+/* navbar section */
+.navbar img{
+ width: 40.42px;
+ height: 51px;
+}
+body{
+    background-color: #F3F1FF !important;
+
+}
+.img-logo{
+    margin-left: 240px !important;
+}
+.main{
+    margin-top: 50px;
+}
+.navbar-nav{
+    margin-right: 240px;
+}
+
+.spacing{
+    padding-right: 10px;
+}
+.text-light{
+    padding-left: 5px;
+}
+.bg-main
+{
+    background-color: #562EFF !important ;
+}
+/* main section */
+.text-main{
+    color: #562EFF ;
+}
+main section div img{
+    height: 56px;
+    width: 56px;
+}
+main{
+    max-width: 870px;
+}
+.top-player{
+    background-color: #ffffff;
+}
+.img-sizing{
+    width: 177px;
+    height: 177px;
+}
+.card-text{
+    color: red;
+}
+.card-img-top{
+    height: 224px;
+    width: 104px;
+    border-radius: 5px;
+}
